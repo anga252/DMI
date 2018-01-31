@@ -1,0 +1,6 @@
+    1  git-download
+    2  ls -l git-download.sh
+    3  git-download.sh
+    4  chmod 744 git-download.sh
+    5  nano
+    6  history > history.txt
